@@ -1,0 +1,1 @@
+This system helps to Manage courier details of the sellers. It consists various functions such as login page, registration, Dashboard, add orders, search orders, delete orders, processing ordes page, completed orders page and failed orders page 
